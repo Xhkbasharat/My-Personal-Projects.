@@ -1,6 +1,6 @@
 Explainable AI for Pneumonia Detection Using Chest X-Ray Images
 
-📌 Project Overview
+Project Overview
 
 Explainable AI for Pneumonia Detection Using Chest X-Ray Images is an AI-powered medical image analysis system developed to detect pneumonia from chest X-ray images while also providing an explanation of the model's prediction.
 
@@ -10,14 +10,14 @@ Unlike a traditional classification system that only provides a result such as "
 
 The system also includes patient management, prediction history, dashboard analytics, PDF report generation, webcam capture, image quality validation, and an AI Challenge Mode for evaluating prediction robustness.
 
-> ⚠️ Disclaimer: This project is intended for academic and research purposes. It is not a substitute for professional medical diagnosis or clinical decision-making.
+> Disclaimer: This project is intended for academic and research purposes. It is not a substitute for professional medical diagnosis or clinical decision-making.
 
 
 
 
 ---
 
-🎯 Problem Statement
+Problem Statement
 
 Pneumonia is a respiratory infection that can affect one or both lungs. Chest X-ray imaging is commonly used as part of the assessment of pneumonia.
 
@@ -56,7 +56,7 @@ Automated PDF reports
 
 ---
 
-🎯 Project Objectives
+Project Objectives
 
 The major objectives of the project are:
 
@@ -103,7 +103,7 @@ The major objectives of the project are:
 
 ---
 
-🧠 Core Concept
+Core Concept
 
 The complete AI pipeline is:
 
@@ -134,7 +134,7 @@ Result + Report
 
 ---
 
-⭐ Key Features
+Key Features
 
 1. Pneumonia Detection
 
@@ -173,7 +173,7 @@ lung_segmentation_unet.h5
 
 ---
 
-🧬 Deep Learning Models
+ Deep Learning Models
 
 The classification pipeline uses an ensemble of multiple deep-learning architectures.
 
@@ -202,7 +202,7 @@ MobileNetV2 is a lightweight architecture designed for efficient computation.
 
 ---
 
-🔗 Ensemble Learning
+ Ensemble Learning
 
 Instead of relying on only one model, the system combines predictions from five classification models.
 
@@ -254,7 +254,7 @@ NORMAL
 
 ---
 
-🔍 Explainable AI — Grad-CAM
+ Explainable AI — Grad-CAM
 
 One of the most important components of the project is Explainable Artificial Intelligence.
 
@@ -282,7 +282,7 @@ This provides a visual explanation of the model's decision.
 
 ---
 
-🔥 Grad-CAM Workflow
+Grad-CAM Workflow
 
 Input X-Ray
      ↓
@@ -307,7 +307,7 @@ The generated heatmap is superimposed on the X-ray to make the important regions
 
 ---
 
-🫁 Lung-Restricted Grad-CAM
+Lung-Restricted Grad-CAM
 
 The project combines:
 
@@ -336,7 +336,7 @@ This helps focus the visualization on the relevant anatomical region.
 
 ---
 
-📊 Confidence Score
+Confidence Score
 
 The system calculates a confidence percentage based on the ensemble prediction.
 
@@ -367,7 +367,7 @@ Confidence: 93%
 
 ---
 
-⚠️ Severity Classification
+Severity Classification
 
 The application also provides a confidence-based severity category.
 
@@ -392,7 +392,7 @@ This is an application-defined confidence category, not a clinical measurement o
 
 ---
 
-🧪 AI Challenge Mode
+AI Challenge Mode
 
 The project includes an AI Challenge Mode to evaluate prediction consistency.
 
@@ -418,7 +418,7 @@ Noise
 
 ---
 
-🛡️ Robustness Score
+Robustness Score
 
 Each modified image is passed through the prediction pipeline.
 
@@ -446,7 +446,7 @@ This provides an additional experimental measure of model stability.
 
 ---
 
-🗂️ Dataset
+Dataset
 
 Kaggle Chest X-Ray Dataset
 
@@ -471,7 +471,7 @@ The exact counts should be verified against the specific dataset version used fo
 
 ---
 
-🫁 Shenzhen Lung Segmentation Dataset
+Shenzhen Lung Segmentation Dataset
 
 A lung segmentation dataset is also used for lung-region segmentation.
 
@@ -489,7 +489,7 @@ These masks support the training or evaluation of the U-Net segmentation compone
 
 ---
 
-🖼️ Image Preprocessing
+Image Preprocessing
 
 Before an X-ray is passed to the classification models, it undergoes preprocessing.
 
@@ -524,7 +524,7 @@ The configured classification input size is:
 
 ---
 
-🧩 System Architecture
+System Architecture
 
 The overall architecture is:
 
@@ -593,7 +593,7 @@ USER
 
 ---
 
-🌐 Web Application
+Web Application
 
 The complete AI pipeline is integrated into a Flask web application.
 
@@ -679,7 +679,7 @@ Securely ends the current user session.
 
 ---
 
-👤 Patient Management
+Patient Management
 
 The system provides patient record management.
 
@@ -715,7 +715,7 @@ View prediction history
 
 ---
 
-📈 Dashboard Analytics
+Dashboard Analytics
 
 The dashboard provides important system statistics.
 
@@ -734,7 +734,7 @@ This provides administrators and authorized users with a centralized overview of
 
 ---
 
-📄 Professional PDF Report
+Professional PDF Report
 
 After prediction, the system can generate a professional PDF report.
 
@@ -766,7 +766,7 @@ The generated report provides a record of the AI-assisted analysis.
 
 ---
 
-🗄️ Database
+Database
 
 The application uses SQLite for data storage.
 
@@ -800,7 +800,7 @@ System settings
 
 ---
 
-🔐 Security Features
+Security Features
 
 The application can incorporate:
 
@@ -839,7 +839,7 @@ Rate limiting
 
 ---
 
-📁 Suggested Project Structure
+Suggested Project Structure
 
 Explainable-AI-Pneumonia-Detection/
 │
@@ -880,7 +880,7 @@ Explainable-AI-Pneumonia-Detection/
 
 ---
 
-⚙️ Installation
+Installation
 
 1. Clone the Repository
 
@@ -928,7 +928,7 @@ Additional packages may be required depending on the final implementation.
 
 ---
 
-▶️ Run the Application
+Run the Application
 
 Run:
 
@@ -943,7 +943,7 @@ in your browser.
 
 ---
 
-🔄 Example Prediction Workflow
+Example Prediction Workflow
 
 Step 1 — Login
 
@@ -1006,7 +1006,7 @@ A PDF report is generated containing the analysis information.
 
 ---
 
-📊 Evaluation Metrics
+Evaluation Metrics
 
 The project can evaluate classification performance using standard metrics such as:
 
@@ -1048,228 +1048,5 @@ Robustness Score
 
 Segmentation performance
 
-
-For the final GitHub repository, actual experimental metrics should be reported only if they correspond to the final reproducible experiment.
-
-
----
-
-📸 Recommended GitHub Screenshots
-
-The repository can include screenshots of:
-
-1. Login page
-
-
-2. Registration page
-
-
-3. Dashboard
-
-
-4. X-ray upload page
-
-
-5. Prediction result
-
-
-6. Original X-ray
-
-
-7. Grad-CAM heatmap
-
-
-8. Patient history
-
-
-9. PDF report
-
-
-10. AI Challenge Mode
-
-
-11. Admin dashboard
-
-
-12. System status
-
-
-
-Example structure:
-
-screenshots/
-├── login.png
-├── dashboard.png
-├── upload.png
-├── prediction.png
-├── gradcam.png
-├── patient-history.png
-└── report.png
-
-
----
-
-🚀 Future Enhancements
-
-Advanced Models
-
-Future versions could integrate:
-
-EfficientNetV2
-
-ConvNeXt
-
-Swin Transformer
-
-Vision Transformer
-
-
-Advanced Ensemble
-
-Instead of simple averaging, future versions could use:
-
-Weighted voting
-
-Stacking
-
-Meta-learning
-
-
-Improved XAI
-
-Additional explainability methods could include:
-
-SHAP
-
-LIME
-
-Integrated Gradients
-
-Occlusion Sensitivity
-
-
-Improved Segmentation
-
-More advanced segmentation architectures could be investigated for improved lung boundary detection.
-
-Multi-Disease Detection
-
-The system could be extended to detect:
-
-Pneumonia
-
-Tuberculosis
-
-COVID-19
-
-Pleural Effusion
-
-Atelectasis
-
-Cardiomegaly
-
-Other thoracic abnormalities
-
-
-Model Calibration
-
-Confidence scores could be calibrated using appropriate statistical methods.
-
-External Validation
-
-The system could be tested on independent datasets collected from different hospitals and imaging devices.
-
-Cloud Deployment
-
-The application could be deployed using:
-
-AWS
-
-Microsoft Azure
-
-Google Cloud
-
-Other secure hosting infrastructure
-
-
-Mobile Application
-
-A mobile application could provide an interface for authorized users.
-
-
----
-
-⚠️ Limitations
-
-The project has several limitations:
-
-1. It is an academic/research prototype.
-
-
-2. It should not be used as an independent diagnostic system.
-
-
-3. Model performance depends heavily on the training dataset.
-
-
-4. Dataset bias can affect predictions.
-
-
-5. Images from different hospitals or X-ray devices may produce different results.
-
-
-6. Grad-CAM explains model attention but does not prove the presence of disease.
-
-
-7. Confidence values are not automatically equivalent to clinical probabilities.
-
-
-8. The application's severity categories are not clinical severity measurements.
-
-
-9. Real-world clinical deployment requires extensive validation.
-
-
-10. Medical data requires strong privacy and security controls.
-
-
-11. Regulatory and clinical approval would be required for real-world medical deployment.
-
-
-
-
----
-
-🔬 Academic Contribution
-
-The project integrates several areas of computer science and artificial intelligence:
-
-Python
-   +
-Flask
-   +
-Computer Vision
-   +
-Deep Learning
-   +
-CNN
-   +
-Transfer Learning
-   +
-Ensemble Learning
-   +
-U-Net Segmentation
-   +
-Explainable AI
-   +
-Grad-CAM
-   +
-Robustness Testing
-   +
-Database Management
-   +
-Web Development
-
-The major contribution is the combination of pneumonia classification with explainability and robustness analysis within a complete web-based system.
 
 
