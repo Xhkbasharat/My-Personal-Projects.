@@ -10,9 +10,6 @@ Unlike a traditional classification system that only provides a result such as "
 
 The system also includes patient management, prediction history, dashboard analytics, PDF report generation, webcam capture, image quality validation, and an AI Challenge Mode for evaluating prediction robustness.
 
-> Disclaimer: This project is intended for academic and research purposes. It is not a substitute for professional medical diagnosis or clinical decision-making.
-
-
 
 
 ---
