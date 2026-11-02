@@ -1,169 +1,101 @@
-<div align="center"><!-- PREMIUM PROFILE HEADER --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:450A0A,70:991B1B,100:DC2626&height=240&section=header&text=SHEIKH%20BASHARAT%20AKBAR&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20ENGINEER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=57&descSize=17" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=F87171&center=true&vCenter=true&width=850&lines=AI+Writer+%40+Mercor+%7C+AI+Trainer+%40+micro1;AI%2FML+Engineer+%7C+Software+Engineer;Python+Developer+%7C+Intelligent+Systems;Agentic+AI+%7C+Deep+Learning+%7C+Computer+Vision;LLMs+%7C+RAG+%7C+Explainable+AI;Turning+Ideas+Into+Real-World+Solutions" alt="Professional animated introduction"/><br/><a href="https://www.linkedin.com/in/sheikh-basharat-389980225/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center"><!-- NEON CYBERPUNK HEADER --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,35:172554,70:6D28D9,100:06B6D4&height=250&section=header&text=SHEIKH%20BASHARAT%20AKBAR&fontSize=35&fontColor=00F5FF&fontAlignY=36&desc=AI%2FML%20ENGINEER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=57&descSize=17" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=AI+Writer+%40+Mercor+%7C+AI+Trainer+%40+micro1;AI%2FML+ENGINEER+%7C+SOFTWARE+ENGINEER;PYTHON+DEVELOPER+%7C+INTELLIGENT+SYSTEMS;AGENTIC+AI+%7C+DEEP+LEARNING+%7C+COMPUTER+VISION;LLMs+%7C+RAG+%7C+EXPLAINABLE+AI;BUILDING+THE+FUTURE+WITH+INTELLIGENCE" alt="Neon animated introduction"/><br/><a href="https://www.linkedin.com/in/sheikh-basharat-389980225/">
+<img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 <a href="https://github.com/Xhkbasharat">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/Xhkbasharat?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-B91C1C?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
 </a><br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Xhkbasharat&label=PROFILE%20VISITORS&color=DC2626&style=for-the-badge" alt="Profile visitors"/></div>---
+<img src="https://komarev.com/ghpvc/?username=Xhkbasharat&label=PROFILE%20VISITORS&color=00F5FF&style=for-the-badge" alt="Profile visitors"/></div>---
 
-<div align="center">ENGINEERING INTELLIGENCE. BUILDING SOFTWARE. CREATING IMPACT.
+<div align="center">⚡ ENGINEERING INTELLIGENCE
 
-Artificial Intelligence meets practical Software Engineering.
+Building Intelligent Systems • Engineering Software • Creating Impact
 
-</div>01. About Me
+</div>🧬 01 — ABOUT ME
 
-Hello! I'm Sheikh Basharat Akbar, an MCA graduate working at the intersection of Artificial Intelligence, Machine Learning and Software Engineering.
+I'm Sheikh Basharat Akbar, an MCA graduate working at the intersection of Artificial Intelligence, Machine Learning and Software Engineering.
 
-Currently, I work as an AI Writer at Mercor and an AI Trainer at micro1, while developing practical AI-powered applications and software solutions.
+Currently, I'm working as an AI Writer at Mercor and an AI Trainer at micro1.
 
-I'm interested in building intelligent systems that combine research, engineering and real-world usability. My work spans Agentic AI, Deep Learning, Computer Vision, Natural Language Processing, Explainable AI and full-stack web development.
+I enjoy designing and developing practical applications, exploring intelligent systems and transforming complex technical ideas into real-world solutions.
 
-I enjoy solving challenging problems, exploring emerging technologies and turning complex ideas into working applications.
+My technical interests include Agentic AI, Deep Learning, Computer Vision, Natural Language Processing, Large Language Models, RAG and Explainable AI.
 
-Professional Snapshot
-
-Category| Details
-Name| Sheikh Basharat Akbar
-Education| Master of Computer Applications (MCA)
-University| Islamic University of Science & Technology, Pulwama
-Current Role| AI Writer — Mercor
-Current Role| AI Trainer — micro1
-Engineering Focus| AI/ML Engineering & Software Engineering
-Primary Language| Python
-Technical Interests| Agentic AI, LLMs, RAG, CV, NLP, XAI
-LinkedIn| "View Profile" (https://www.linkedin.com/in/sheikh-basharat-389980225/)
+Profile| Details
+🎓 Education| MCA — Islamic University of Science & Technology
+💼 Professional Roles| AI Writer — Mercor
+🤖 Professional Roles| AI Trainer — micro1
+💻 Engineering| AI/ML & Software Engineering
+🧠 Primary Language| Python
+📍 Location| Kupwara, Jammu & Kashmir, India
+🔗 LinkedIn| "Connect with me" (https://www.linkedin.com/in/sheikh-basharat-389980225/)
 
 ---
 
-02. Professional Experience
+⚙️ 02 — TECHNICAL ARSENAL
 
-AI Writer — Mercor
-
-Working in AI-focused writing and related professional tasks.
-
-AI Trainer — micro1
-
-Working in AI training and related professional tasks.
-
-My professional interests include AI systems, technical problem-solving, language-model applications and software development.
-
----
-
-03. Technical Arsenal
-
-Programming Languages
+💻 Programming & Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming languages"/>
-</p>Artificial Intelligence & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,bootstrap"/>
+</p>🧠 AI & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-9333EA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-DB2777?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-B91C1C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-0369A1?style=flat-square"/>
-</p>Software Engineering & Web Development
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-00F5FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLAINABLE%20AI-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AGENTIC%20AI-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0369A1?style=for-the-badge"/>
+</p>🛠️ Software Engineering & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,bootstrap,mysql,sqlite,git,github,vscode" alt="Software engineering tools"/>
-</p>- Python application development
-- Backend and frontend development
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,sqlite,docker,react,fastapi"/>
+</p>- Backend and frontend development
+- Python application development
 - Flask-based web applications
-- SQL and relational databases
-- REST API concepts
+- Database and SQL fundamentals
 - Application architecture and integration
-- Debugging and problem-solving
-- Version control with Git and GitHub
-
-AI Engineering Interests
-
-- Multi-agent orchestration
-- Retrieval-Augmented Generation
-- Large Language Model applications
-- Deep neural networks and CNN architectures
-- Image segmentation and classification
-- Model interpretability and Grad-CAM
-- AI evaluation and robustness testing
+- Problem-solving and debugging
 
 ---
 
-04. Featured Engineering Projects
+🚀 03 — FEATURED PROJECTS
 
-<div align="center"><img src="https://img.shields.io/badge/SELECTED%20PORTFOLIO-03%20PROJECTS-B91C1C?style=for-the-badge"/>Three projects demonstrating Agentic AI, advanced Deep Learning and Full-Stack Software Engineering.
-
-</div>🔴 PROJECT 01 — ResearchFlow AI
+<div align="center"><img src="https://img.shields.io/badge/THREE%20PROJECTS-THREE%20ENGINEERING%20DOMAINS-00F5FF?style=for-the-badge"/></div>🟣 PROJECT 01 — ResearchFlow AI
 
 Advanced Agentic AI | Multi-Agent Research & Reporting System
 
 <a href="https://github.com/Xhkbasharat/researchflow-ai">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>ResearchFlow AI is an advanced Agentic AI platform designed to automate complex research workflows through intelligent multi-agent collaboration.
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>An advanced Agentic AI platform designed to automate complex research workflows through intelligent multi-agent collaboration.
 
-Its vision is to coordinate specialized AI agents that plan research tasks, collect information, analyze evidence, generate structured reports and verify factual claims.
+Nine Specialized Agents
 
-Multi-Agent Architecture
-
-Specialized Agent| Responsibility
+Agent| Function
 Supervisor| Coordinates agents and workflow execution
-Planner| Decomposes research questions into tasks
-Research| Collects relevant information and evidence
-Document| Extracts information from uploaded documents
-Analyst| Identifies insights, trends, opportunities and risks
-Writer| Generates structured research reports
+Planner| Breaks research questions into tasks
+Research| Collects information and evidence
+Document| Extracts information from documents
+Analyst| Identifies insights, trends and risks
+Writer| Generates structured reports
 Fact-Checker| Evaluates claims against evidence
-Critic| Reviews report quality and recommends improvements
+Critic| Reviews report quality
 Memory| Manages reusable research context
 
-Proposed Research Workflow
+Planned Features
 
-         USER RESEARCH QUESTION
-                   |
-                   v
-             PLANNER AGENT
-                   |
-                   v
-           SUPERVISOR AGENT
-                   |
-          +--------+--------+
-          |        |        |
-          v        v        v
-       RESEARCH DOCUMENT ANALYST
-        AGENT    AGENT    AGENT
-          |        |        |
-          +--------+--------+
-                   |
-                   v
-          EVIDENCE SYNTHESIS
-                   |
-                   v
-             WRITER AGENT
-                   |
-                   v
-           FACT-CHECKER AGENT
-                   |
-                   v
-              CRITIC AGENT
-                   |
-                   v
-            FINAL RESEARCH
-                 REPORT
-
-Planned Capabilities
-
-- LangGraph-based multi-agent orchestration
+- LangGraph multi-agent orchestration
 - Autonomous research planning
-- Web search and information retrieval
-- Retrieval-Augmented Generation (RAG)
-- Document and PDF analysis
+- Web search and retrieval
+- Retrieval-Augmented Generation
+- PDF and document analysis
 - Evidence-based report generation
 - Citation verification
 - Human-in-the-loop approval
@@ -172,146 +104,143 @@ Planned Capabilities
 
 Technology Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,docker" alt="ResearchFlow technology stack"/>
-</p>"Python" "OpenAI API" "LangGraph" "LangChain" "FastAPI" "PostgreSQL" "pgvector" "React" "Docker" "LangSmith"
+"Python" "OpenAI API" "LangGraph" "LangChain" "FastAPI" "PostgreSQL" "pgvector" "React" "Docker" "LangSmith"
 
-Project Vision: Build an intelligent AI research assistant capable of coordinating specialized agents to produce reliable, evidence-based research reports.
+Research Workflow
 
-<sub>Note: The capabilities above are the project's described architecture and planned features, not a claim that every feature is already implemented.</sub>
+USER QUERY
+    |
+    v
+PLANNER + SUPERVISOR
+    |
+    v
+SPECIALIZED AI AGENTS
+    |
+    v
+RESEARCH + DOCUMENT ANALYSIS
+    |
+    v
+EVIDENCE SYNTHESIS
+    |
+    v
+REPORT GENERATION
+    |
+    v
+FACT CHECKING + CRITIC REVIEW
+    |
+    v
+FINAL RESEARCH REPORT
+
+<sub>Project vision and planned capabilities; not all listed features are claimed to be implemented.</sub>
 
 ---
 
-🔴 PROJECT 02 — Explainable AI for Pneumonia Detection Using Chest X-Ray Images
+🔵 PROJECT 02 — Explainable AI for Pneumonia Detection
 
-Medical AI | Deep Learning | Computer Vision | Explainable AI
+Deep Learning | Computer Vision | Medical AI | XAI
 
 <a href="https://github.com/Xhkbasharat/explainable-xai-chest-xray">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>An AI-powered medical image analysis system designed to classify chest X-ray images into NORMAL or PNEUMONIA while providing visual explanations of model predictions.
-
-The project combines deep learning, lung segmentation, ensemble learning, Grad-CAM explainability and a Flask-based web application.
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>An AI-powered chest X-ray analysis system designed to classify images as NORMAL or PNEUMONIA while providing visual explanations using Grad-CAM.
 
 Core AI Architecture
 
-1. U-Net Lung Segmentation
+U-Net Lung Segmentation
 
-- Identifies lung regions in chest X-ray images.
-- Generates lung segmentation masks.
-- Supports lung-region-focused image analysis.
-- Connects anatomical segmentation with classification and explainability.
+- Identifies lung regions.
+- Generates segmentation masks.
+- Supports lung-focused analysis.
 
-2. Five-Model CNN Ensemble
+Five-Model CNN Ensemble
 
-Deep Learning Model| Architecture
+Model| Architecture
 DenseNet121| Dense feature connections
 DenseNet201| Deeper DenseNet architecture
 Xception| Depthwise separable convolutions
-EfficientNetB3| Compound-scaled architecture
-MobileNetV2| Lightweight convolutional architecture
+EfficientNetB3| Compound scaling
+MobileNetV2| Lightweight CNN
 
-Configured ensemble calculation:
+Ensemble calculation:
 
 [
 P_{\text{ensemble}}=\frac{P_1+P_2+P_3+P_4+P_5}{5}
 ]
 
-Configured classification threshold: "0.5".
+Explainable AI — Grad-CAM
 
-3. Explainable AI — Grad-CAM
+- Generates visual activation heatmaps.
+- Highlights regions influencing model predictions.
+- Overlays heatmaps on original X-rays.
+- Supports lung-restricted explanations.
 
-- Generates class activation heatmaps.
-- Highlights regions contributing to predictions.
-- Overlays visual explanations on original X-rays.
-- Supports lung-restricted heatmap visualization using segmentation masks.
+AI Challenge Mode
 
-4. AI Challenge Mode
+Tests prediction consistency under:
 
-Tests prediction consistency under controlled image transformations:
-
-- Brightness increase and decrease
-- Contrast adjustments
+- Brightness changes
+- Contrast changes
 - Small rotations
 - Blur
 - Noise
 
-Configured robustness calculation:
+Advanced Application Features
 
-[
-\text{Robustness Score}=
-\frac{\text{Consistent Predictions}}{\text{Total Challenge Images}}\times100
-]
-
-Complete AI Pipeline
-
-CHEST X-RAY INPUT
-        |
-        v
-IMAGE QUALITY VALIDATION
-        |
-        v
-PREPROCESSING (224 x 224)
-        |
-        v
-U-NET LUNG SEGMENTATION
-        |
-        v
-SEGMENTED LUNG IMAGE
-        |
-        v
-FIVE CNN CLASSIFICATION MODELS
-        |
-        v
-ENSEMBLE PREDICTION
-        |
-        v
-NORMAL / PNEUMONIA
-        |
-        +-------------------+
-        |                   |
-        v                   v
- CONFIDENCE             GRAD-CAM
- CALCULATION            HEATMAP
-        |                   |
-        +---------+---------+
-                  |
-                  v
-          AI CHALLENGE MODE
-                  |
-                  v
-          RESULT DASHBOARD
-                  |
-          +-------+-------+
-          |       |       |
-          v       v       v
-        HISTORY  PDF   ANALYTICS
-               REPORT
-
-Application Features
-
-- User authentication and registration
-- Patient management
+- Patient registration and management
+- Secure authentication
 - X-ray upload and webcam capture
 - Image quality validation
-- Prediction and confidence display
-- Original image and Grad-CAM visualization
-- Patient history and prediction records
+- Real-time prediction pipeline
+- Prediction confidence
+- Grad-CAM visualization
+- Patient history
 - Dashboard analytics
 - Automated PDF reports
-- Medical news and pneumonia awareness
 - AI chatbot and feedback modules
-- Application settings and administration
+- Medical awareness and news modules
 
 Technology Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js" alt="XAI application technology stack"/>
-</p>"Python" "Flask" "TensorFlow" "Keras" "OpenCV" "NumPy" "Matplotlib" "SQLite" "CNN" "U-Net" "Grad-CAM"
+"Python" "Flask" "TensorFlow" "Keras" "OpenCV" "NumPy" "Matplotlib" "SQLite" "CNN" "U-Net" "Grad-CAM"
 
-Datasets
+AI Pipeline
 
-- Kaggle Chest X-Ray Dataset — Normal and Pneumonia classification.
-- Shenzhen Lung Segmentation Dataset — lung images and segmentation masks.
+CHEST X-RAY
+     |
+     v
+IMAGE VALIDATION
+     |
+     v
+PREPROCESSING
+     |
+     v
+U-NET SEGMENTATION
+     |
+     v
+FIVE CNN MODELS
+     |
+     v
+ENSEMBLE PREDICTION
+     |
+     +---------> GRAD-CAM
+     |                |
+     v                v
+NORMAL / PNEUMONIA + HEATMAP
+             |
+             v
+     CHALLENGE MODE
+             |
+             v
+       RESULT DASHBOARD
+             |
+       +-----+-----+
+       |     |     |
+       v     v     v
+    HISTORY PDF REPORT ANALYTICS
+
+Dataset
+
+- Kaggle Chest X-Ray Dataset: Normal and Pneumonia classes.
+- Shenzhen Lung Segmentation Dataset: lung images and masks.
 
 Documented classification dataset counts:
 
@@ -320,64 +249,61 @@ Normal| 1,341
 Pneumonia| 3,875
 Total| 5,216
 
-Evaluation Framework
+Evaluation: Accuracy, Precision, Recall, F1 Score, Confusion Matrix, ROC-AUC, segmentation performance and robustness score.
 
-Accuracy, Precision, Recall, F1 Score, Confusion Matrix, ROC-AUC, segmentation performance, Grad-CAM visual analysis and robustness score.
-
-<sub>Medical disclaimer: This is an AI-assisted research and educational system, not a clinically validated diagnostic device. Model confidence and application-defined severity categories are not clinical measurements.</sub>
+<sub>Research and educational system; not a clinically validated diagnostic device. Confidence and application-defined severity categories are not clinical assessments.</sub>
 
 ---
 
-🔴 PROJECT 03 — Job Portal & Recruitment Management System
+🟢 PROJECT 03 — Job Portal & Recruitment Management System
 
-Software Engineering | Full-Stack Web Development | Flask
+Software Engineering | Full-Stack Web Development
 
 <a href="https://github.com/Xhkbasharat/job-portal-recruitment-system">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>A full-stack web-based recruitment management platform designed to connect job seekers and recruiters while simplifying job discovery, applications and recruitment workflows.
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
+</a>A full-stack recruitment management platform connecting job seekers and recruiters through a role-based web application.
 
 Core Features
 
 - User registration and authentication
 - Job seeker and recruiter roles
-- Job posting and job discovery
+- Job posting and discovery
 - Search by job title, company and location
 - Job application management
 - Recruiter dashboard
-- Applicant status management
+- Applicant status tracking
 - Administrator dashboard
 - User and job management
 
 Application Workflow
 
-          USER REGISTRATION
-                  |
-                  v
-          ROLE-BASED ACCESS
-             /        \
-            v          v
-       JOB SEEKER   RECRUITER
-            |          |
-            v          v
-       SEARCH JOBS  POST JOBS
-            |          |
-            v          v
-       APPLY FOR    MANAGE
-         JOBS       APPLICANTS
-            |          |
-            +-----+----+
-                  |
-                  v
-         APPLICATION STATUS
-                  |
-                  v
-          ADMIN DASHBOARD
+USER REGISTRATION
+       |
+       v
+ROLE-BASED ACCESS
+       |
+  +----+----+
+  |         |
+  v         v
+JOB SEEKER RECRUITER
+  |         |
+  v         v
+FIND JOBS  POST JOBS
+  |         |
+  v         v
+APPLY      MANAGE APPLICANTS
+  |         |
+  +----+----+
+       |
+       v
+APPLICATION MANAGEMENT
+       |
+       v
+ADMIN DASHBOARD
 
 Technology Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,bootstrap" alt="Job Portal technology stack"/>
-</p>"Python" "Flask" "Flask-SQLAlchemy" "Flask-Login" "SQLite" "HTML5" "CSS3" "Bootstrap"
+"Python" "Flask" "Flask-SQLAlchemy" "Flask-Login" "SQLite" "HTML5" "CSS3" "Bootstrap"
 
 Engineering Focus
 
@@ -390,58 +316,59 @@ Engineering Focus
 
 ---
 
-05. Engineering Interests
+📡 04 — PROFESSIONAL EXPERIENCE
 
-Domain| Areas of Interest
-Agentic AI| Multi-agent systems and orchestration
-Generative AI| LLM applications and RAG
-Machine Learning| Classification and predictive models
-Deep Learning| CNNs and ensemble architectures
-Computer Vision| Medical imaging and segmentation
-Explainable AI| Grad-CAM and model interpretability
-NLP| Language processing and AI writing
-Software Engineering| Backend, frontend and application architecture
-Database Engineering| SQL and relational data management
+Organization| Role
+Mercor| AI Writer
+micro1| AI Trainer
+
+🎓 05 — EDUCATION
+
+Master of Computer Applications (MCA)
+
+Islamic University of Science & Technology, Pulwama.
+
+Academic focus: Artificial Intelligence and Machine Learning.
 
 ---
 
-06. GitHub Analytics
+📊 06 — GITHUB ANALYTICS
 
-<div align="center"><img height="175" src="https://github-readme-stats.vercel.app/api?username=Xhkbasharat&show_icons=true&theme=transparent&hide_border=true&title_color=EF4444&icon_color=EF4444&text_color=9CA3AF&rank_icon=github" alt="GitHub statistics"/><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xhkbasharat&layout=compact&theme=transparent&hide_border=true&title_color=EF4444&text_color=9CA3AF" alt="Top languages"/><br/><br/>
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Xhkbasharat&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=A855F7&text_color=CBD5E1&rank_icon=github" alt="GitHub stats"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xhkbasharat&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=CBD5E1" alt="Top languages"/><br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Xhkbasharat&theme=transparent&hide_border=true&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" alt="GitHub contribution streak"/></div>07. GitHub Achievements
+<img width="75%" src="https://streak-stats.demolab.com?user=Xhkbasharat&theme=tokyonight&hide_border=true&ring=00F5FF&fire=A855F7&currStreakLabel=00F5FF" alt="Contribution streak"/></div>---
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Xhkbasharat&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/></div>08. Contribution Activity
+🏆 07 — GITHUB ACHIEVEMENTS
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Xhkbasharat&bg_color=0d1117&color=F87171&line=DC2626&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/></div>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Xhkbasharat&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies"/></div>---
 
-09. Current Focus & Goals
+🌌 08 — CONTRIBUTION ACTIVITY
 
-- Developing advanced Agentic AI applications.
-- Exploring multi-agent systems and autonomous workflows.
-- Building explainable and reliable Machine Learning systems.
-- Improving full-stack software engineering capabilities.
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Xhkbasharat&bg_color=080B16&color=00F5FF&line=A855F7&point=39FF14&area=true&hide_border=true" width="100%" alt="Contribution graph"/></div>---
+
+🎯 09 — CURRENT FOCUS
+
+- Building intelligent Agentic AI applications.
+- Exploring multi-agent orchestration and autonomous workflows.
+- Developing explainable and reliable ML systems.
+- Improving Python and Software Engineering capabilities.
 - Exploring practical LLM and RAG applications.
-- Developing scalable and useful AI-powered software.
+- Building useful real-world AI-powered software.
 
 ---
 
-10. Let's Connect
+🤝 10 — CONNECT WITH ME
 
-I'm interested in connecting with AI engineers, software developers, researchers and technology enthusiasts.
+<div align="center">Let's connect, collaborate and build something meaningful.
 
-<div align="center"><a href="https://www.linkedin.com/in/sheikh-basharat-389980225/">
-<img src="https://img.shields.io/badge/LinkedIn-Sheikh%20Basharat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sheikh-basharat-389980225/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a><a href="https://github.com/Xhkbasharat">
-<img src="https://img.shields.io/badge/GitHub-Xhkbasharat-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a><br/><br/>
 
-OPEN TO TECHNICAL DISCUSSIONS, KNOWLEDGE SHARING & COLLABORATION
+⚡ THINK. BUILD. INNOVATE. REPEAT.
 
-<br/>BUILDING INTELLIGENT SYSTEMS
+AI ENGINEERING × SOFTWARE ENGINEERING × REAL-WORLD IMPACT
 
-ENGINEERING SOFTWARE
-
-CREATING REAL-WORLD IMPACT
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7F1D1D,100:09090B&height=130&section=footer" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:6D28D9,100:080B16&height=130&section=footer" width="100%"/></div>
